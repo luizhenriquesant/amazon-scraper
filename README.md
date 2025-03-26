@@ -60,11 +60,6 @@ npm run start
 
 #### Open the Frontend:
 Open the `frontend/index.html` file in your browser.
-Alternatively, serve the frontend using a local HTTP server like `live-server`:
-```bash
-npm install -g live-server
-live-server frontend
-```
 
 ## Usage
 
